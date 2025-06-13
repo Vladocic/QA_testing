@@ -14,3 +14,4 @@ venv/
 
 # Playwright кэш
 .playwright/
+.history/
